@@ -1,2 +1,2 @@
-# Web-Development-Project-1
+# web-development-course-project-1
 Project 1
